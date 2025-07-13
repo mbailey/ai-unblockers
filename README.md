@@ -8,7 +8,7 @@ This project aims to help people unblock their use of generative AI at work.
 
 ## Topics
 
-- [AIr Gapped Assistant](./air-gapped-assistant/README.md)
+- [AIr Gapped Assistants](./air-gapped-assistant/README.md)
 - [AI Policy](./ai-policy/README.md)
 - [Agent Sandbox](./agent-sandbox/README.md)
 
